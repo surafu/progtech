@@ -7,6 +7,10 @@ def testfunc(a):
     return a + 1
 
 
+def secfunc(b):
+    return (str(b * 64))
+
+
 class Call(object):
 
     def __init__(self):

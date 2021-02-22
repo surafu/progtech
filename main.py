@@ -7,6 +7,10 @@ def testfunc(a):
     return a + 1
 
 
+def newtest(s):
+    print(s * 3 * 6)
+
+
 class Call(object):
 
     def __init__(self):

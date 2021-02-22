@@ -9,6 +9,7 @@ def testfunc(a):
 
 def newtest(s):
     print(s * 3 * 6)
+    return (str(b * 64))
 
 
 class Call(object):

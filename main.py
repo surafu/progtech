@@ -2,6 +2,11 @@ import os.path
 import random
 
 
+def testfunc(a):
+    print(a + 1)
+    return a + 1
+
+
 class Call(object):
 
     def __init__(self):
